@@ -25,7 +25,7 @@ USAR Game Management is a Roblox application designed to provide secure account 
 ---
 
 ## Contact Us
-If you have any questions or need support, please join our Discord server: [Insert Discord Link].
+If you have any questions or need support, please join our Discord server: [United States Army | Discord](https://discord.gg/usar).
 
 ---
 
