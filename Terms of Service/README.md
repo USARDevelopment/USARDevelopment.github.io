@@ -46,5 +46,8 @@ We reserve the right to modify these Terms of Service at any time. Changes will 
 
 ---
 
-## 8. Contact Information
-If you have any questions about these Terms of Service, please contact us via our Discord server: [Insert Discord Link].
+## Contact Us
+
+If you have questions about this Privacy Policy, contact us:
+
+- **Email**: [USARManagement@outlook.com](mailto:USARManagement@outlook.com)
