@@ -44,14 +44,8 @@ While using our Service, we may ask you to provide certain personally identifiab
 
 Usage Data is collected automatically and may include:
 
-- Your device's IP address
-- Browser type and version
-- Pages visited
-- Time and date of your visit
-- Time spent on pages
-- Unique device identifiers and diagnostic data
-
-If you use a mobile device, additional data such as device type, unique device ID, operating system, and browser type may be collected.
+- Roblox group information
+- Roblox profile information
 
 ---
 
@@ -59,14 +53,10 @@ If you use a mobile device, additional data such as device type, unique device I
 
 The Company may use your Personal Data for purposes such as:
 
-- **Providing and maintaining the Service**: Including monitoring usage.
 - **Account management**: Allowing access to specific functionalities.
 - **Performance of a contract**: Including development, compliance, and purchases.
 - **Communication**: Updates, notifications, and related correspondence.
-- **Marketing**: News and special offers unless you opt out.
 - **Requests management**: Handling inquiries or service requests.
-- **Business transfers**: Data may be part of assets in mergers or sales.
-- **Other purposes**: Data analysis, usage trends, and improvements to our Service.
 
 ---
 
@@ -74,10 +64,6 @@ The Company may use your Personal Data for purposes such as:
 
 We may share your information in the following situations:
 
-- **Service Providers**: To assist in operating our Service.
-- **Business Transfers**: In cases of mergers or acquisitions.
-- **Affiliates**: With entities under common control, provided they follow this Privacy Policy.
-- **Business Partners**: To offer promotions or services.
 - **With your consent**: For specific uses agreed upon by you.
 
 ---
